@@ -51,8 +51,8 @@ Dieses Projekt ist unter der GNU General Public License v3.0 (GPLv3) lizenziert.
 
 - Wenn du das Script veränderst und veröffentlichst, müssen deine Änderungen ebenfalls unter der GPLv3 stehen.
 
-- Der Urheberrechtshinweis von Benjamin Krakow muss erhalten bleiben.
+- Der Urheberrechtshinweis von MrLavinci muss erhalten bleiben.
 
 Details findest du in der LICENSE Datei.
 
-Entwickelt von Benjamin Krakow (2026).
+Entwickelt von MrLavinci (2026).
