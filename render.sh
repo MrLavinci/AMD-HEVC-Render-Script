@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# (C) 2026 Benjamin Krakow <dmrlavinci@gmail.com>
+# (C) 2026 MrLavinci <mrlavinci@gmail.com>
 # Dieses Script ist unter der GNU General Public License v3.0 lizenziert.
 # Details findest du unter <https://www.gnu.org/licenses/gpl-3.0.html>.
 set -euo pipefail
